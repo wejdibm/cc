@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "wejdi Resume Template"
+description: "A resume templatevfvd for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -9,14 +9,14 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_avatar:                  "false"
+resume_name:                    "Skatetocassst"
+resume_title:                   "Professional Skate wejdi"
+resume_contact_email:           "services@github.com"
+resume_contact_telephone:       "071114415"
+resume_contact_address:         "San Francisco, low CA"
+resume_header_contact_info: "San Francidddsco, CA | 7654-321 | services@github.com"
+resume_header_intro: "<p>Professional skater who works on mobile applications when not dropping in</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
